@@ -23,7 +23,7 @@ export function Sidebar() {
       <nav className="mt-6 pt-6 border-t border-zinc-800 flex flex-col gap-3">
 
         <PlaylistSidebar
-          imageSrc="/playlist.png"
+          imageSrc="/playlist.jpg"
           playlistName="Top Hits"
           artistName="João Otávio"
           type="Playlist"
